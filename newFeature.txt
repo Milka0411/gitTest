@@ -2,3 +2,4 @@
 To jest zmiana na masterze
 =======
 To jest zmiana na newfeature branch
+test
